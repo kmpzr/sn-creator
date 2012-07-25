@@ -2,7 +2,7 @@
 
 Script to automate the ticket creation on Service Now
 
-## Instalation
+## Installation
     git clone https://github.com/WagnerVaz/sn-creator.git
     cd sn-creator
     pip install -r requirements.txt
