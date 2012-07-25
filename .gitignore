@@ -1,0 +1,3 @@
+*.py[cod]
+sn-creator.cfg
+.cache

@@ -1,0 +1,6 @@
+[sn-creator]
+username = username
+password = password
+requestor_group = Some-group-name
+assigned_group = Another-group-name
+sn_url = https://some-host-without-end-slash
