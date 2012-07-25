@@ -28,7 +28,6 @@ def main():
       print "Arguments --t and --d is required"
       sys.exit(2)
 
-
     #Httplib2 initialization
     h = httplib2.Http(".cache")
     h.add_credentials(config.get(config_section, 'username'),
